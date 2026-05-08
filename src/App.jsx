@@ -337,7 +337,7 @@ export default function MacAuthMafiaSite() {
                   <div className="grid w-full max-w-xl place-items-center overflow-hidden rounded-[2rem] border border-red-300/40 bg-white p-3 shadow-inner sm:p-4">
                     <BrandImage src={brandAssets.sc2AccessEnforcement} alt="MacAuthMafia SC2 Access Enforcement Division artwork" className="h-auto w-full object-contain" fallbackName="fingerprint" />
                   </div>
-                  <p className="mt-6 text-sm font-black uppercase tracking-[0.28em] text-red-300">Trust Nothing - Verify Everything</p>
+                  <p className="mt-6 text-sm font-black uppercase tracking-[0.28em] text-red-300">Trust Nothing<br></br>Verify Everything</p>
                   <p className="mt-4 text-zinc-300">
                     802.1X, EAP-TLS, End Point Posture, Quarantine Analysis, Guest Access, and Zero Trust segmentation for the real endpoints nobody warned you about.
                   </p>
