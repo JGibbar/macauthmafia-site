@@ -422,14 +422,13 @@ export default function MacAuthMafiaSite() {
               <p className="text-sm font-bold uppercase tracking-[0.28em] text-red-300">Contact the family</p>
               <h2 className="mt-3 text-3xl font-black tracking-tight text-white sm:text-4xl">Need NAC help?</h2>
               <p className="mt-5 leading-8 text-zinc-300">
-                Send a short note about your environment, target platform, and current pain point. The form is designed for Azure Static Web Apps with an optional Azure Function at <code className="rounded bg-black/40 px-1.5 py-0.5 text-red-100">/api/contact</code>. If the API is not live yet, it falls back to email.
-              </p>
+                Send a short note about your environment, target platform, and current pain point. 
               <div className="mt-6 rounded-2xl border border-red-300/20 bg-red-950/25 p-5">
                 <div className="flex items-center gap-3 text-red-100">
                   <Icon name="mail" className="h-5 w-5" />
                   <p className="font-bold">Recommended inbox</p>
                 </div>
-                <p className="mt-2 text-zinc-300">Create <span className="font-semibold text-white">info@macauthmafia.com</span> or route submissions to your preferred mailbox through Azure Communication Services, SendGrid, Microsoft Graph, or Logic Apps.</p>
+               // <p className="mt-2 text-zinc-300">Create <span className="font-semibold text-white">info@macauthmafia.com</span> or route submissions to your preferred mailbox through Azure Communication Services, SendGrid, Microsoft Graph, or Logic Apps.</p>
               </div>
             </div>
 
