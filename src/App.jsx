@@ -423,6 +423,7 @@ export default function MacAuthMafiaSite() {
               <h2 className="mt-3 text-3xl font-black tracking-tight text-white sm:text-4xl">Need NAC help?</h2>
               <p className="mt-5 leading-8 text-zinc-300">
                 Send a short note about your environment, target platform, and current pain point. 
+              </p> 
               <div className="mt-6 rounded-2xl border border-red-300/20 bg-red-950/25 p-5">
                 <div className="flex items-center gap-3 text-red-100">
                   <Icon name="mail" className="h-5 w-5" />
