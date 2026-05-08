@@ -427,9 +427,10 @@ export default function MacAuthMafiaSite() {
               <div className="mt-6 rounded-2xl border border-red-300/20 bg-red-950/25 p-5">
                 <div className="flex items-center gap-3 text-red-100">
                   <Icon name="mail" className="h-5 w-5" />
-                  <p className="font-bold">Contact The Family</p>
+                  <p className="font-bold">Contact The Family by Email</p>
                 </div>
-               <p className="mt-2 text-zinc-300">Send <span className="font-semibold text-white">info@macauthmafia.com</span> a short note about your environment, target platform, and current pain point.</p>
+               <p className="mt-2 text-zinc-300">Send <span className="font-semibold text-white">info@macauthmafia.com</span> a short note about your environment, target platform, and current pain points. We will be happy to get in touch with you ASAP and see how 
+               we might help!</p>
               </div>
             </div>
 
